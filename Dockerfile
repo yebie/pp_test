@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER PaddlePaddle Authors <paddle-dev@baidu.com>
+MAINTAINER yebie <yebiezhou@gmail.com>
 
 ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update \
